@@ -12,3 +12,6 @@ float c = 72.672;
 double d = 82882822.82829299;
 string name="Hello world!" ;
 ```
+In the above code syntax I declared all the data types that can be used in cpp language. 
+Int can handle real numbers and non decimal number upto limit of 10^32.
+Long can handle all real numbers greater than int and can store all values in it. 
